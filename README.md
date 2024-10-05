@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+Welcome to T H E O M E!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Our mission is to empower individuals to explore Christianity deeply, answer common objections, and provide valuable resources. We aim to help users understand various Christian denominations and, if possible, foster a community of young Christians to communicate and grow together in faith.
 
-## Available Scripts
+Key Features:
 
-In the project directory, you can run:
+Explore Christianity: Discover the core beliefs, history, and practices of Christianity.
 
-### `npm start`
+Answer Objections: Find thoughtful responses to common questions and objections about the Christian faith.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Resources: Access a curated list of books, videos, podcasts, and articles to aid in your spiritual journey.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Denominations: Learn about the different Christian denominations and their unique characteristics.
 
-### `npm test`
+Community: (Future Feature) Connect with other young Christians to share experiences, ask questions, and support one another.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+How to Use:
+Navigate the Site: Use the menu to explore different sections of the site.
+Search for Topics: Utilize the search bar to find specific information or resources.
+Join the Community: Stay tuned for our upcoming community feature to connect with other young Christians.
+We hope this site serves as a valuable tool in your journey to understand and grow in the Christian faith.
