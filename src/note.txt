@@ -1,0 +1,15 @@
+
+
+when injecting images can make it in public or just import from disk 
+import logoimg form '../path/..';
+or insert inpublic asset
+to not refresh everytime loading through pages check Link in react router page
+routers--check
+components--check
+ui--check
+node-----check
+restapi-----check
+mern authen-----
+mern authorz-----
+mern mongodb -----check
+Flutter App-----
